@@ -1,6 +1,6 @@
 import os
 
-names = ['timm', 'wfu', 'rahlk', 'vivekaxl', 'jf', 'zhe', 'jack', 'amrit', 'patrick', 'ken', 'junjie']
+names = ['timm', 'wfu', 'rahlk', 'vivekaxl','george', 'jf', 'zhe', 'jack', 'amrit', 'patrick', 'ken', 'junjie']
 
 for name in names:
 	os.system('mkdir ' + name)
